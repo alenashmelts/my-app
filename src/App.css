@@ -31,7 +31,7 @@
 }
 
 .card::after{
-  content: 'Оборотная сторона карточки 1';
+  content: attr(data-back);
   position: absolute;
   inset: 0;
   display: flex;

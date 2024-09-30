@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "front": "apple",
+        "back":"яблоко"
+    },
+    {
+        "id": 1,
+        "front": "orange",
+        "back":"апельсин"
+    },
+    {
+        "id": 1,
+        "front": "cat",
+        "back":"кот"
+    },
+    {
+        "id": 1,
+        "front": "dog",
+        "back":"собака"
+    },
+    {
+        "id": 1,
+        "front": "living room",
+        "back":"зал"
+    },
+    {
+        "id": 1,
+        "front": "bed",
+        "back":"спальня"
+    },
+    {
+        "id": 1,
+        "front": "tomato",
+        "back":"помидор"
+    },
+    {
+        "id": 1,
+        "front": "potato",
+        "back":"картофель"
+    },
+    {
+        "id": 1,
+        "front": "carrot",
+        "back":"морковь"
+    },
+    {
+        "id": 1,
+        "front": "ball",
+        "back":"мяч"
+    },
+    {
+        "id": 1,
+        "front": "doll",
+        "back":"кукла"
+    }
+]
