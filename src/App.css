@@ -18,7 +18,7 @@
   margin: 20px auto;
   align-items: center;
   justify-content: center;
-  background-color: lavenderblush;
+  background-color: rgb(164, 177, 201);
   border: solid 1px gray;
   border-radius: 10px;
   cursor: pointer;
@@ -42,4 +42,10 @@
   border-radius: 10px;
 transform: rotateY(180deg);
 backface-visibility: hidden;
+}
+
+.control-panel{
+  display: flex;
+  margin: 10px auto;
+  justify-content: center;
 }
