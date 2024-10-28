@@ -80,7 +80,7 @@
     {
         "id": 14,
         "front": "border",
-        "back":"замка",
+        "back":"рамка",
         "setName":"css"
     },
     {

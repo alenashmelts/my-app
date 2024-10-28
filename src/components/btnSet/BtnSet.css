@@ -1,0 +1,16 @@
+.list-set__btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+    padding: 10px;
+    border: rgb(199, 199, 199) solid 1px;
+    background-color: lemonchiffon;
+    transition: 0.3s all;
+}
+.list-set__btn:hover{
+    background-color: rgb(197, 193, 159);
+}

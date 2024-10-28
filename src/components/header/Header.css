@@ -2,5 +2,17 @@
     background-color: rgb(164, 177, 201);
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 15px 0;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .main-nav .link {
+    color: white;
+  }
+
+  .main-nav{
+    display: flex;
+    list-style: none;
   }
