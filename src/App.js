@@ -4,7 +4,7 @@ import {PageSelectSet} from "./pages/pageSelectSet/PageSelectSet";
 import{PageViewSet} from "./pages/pageViewSet/PageViewSet";
 import{PageCreateSet} from './pages/pageCreateSet/PageCreateSet';
 import { FormCreateSet } from './components/formCreateSet/FormCreateSet';
-import { FormCreateCard } from './components/formCreateSet/formCreateCard';
+import { FormCreateCard } from './components/formCreateCard/FormCreateCard';
 
 
 function App() {
